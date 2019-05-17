@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/frankie-is-hungry/static/css/main.2cce8147.chunk.css",
+    "main.js": "/frankie-is-hungry/static/js/main.47e4c2b3.chunk.js",
+    "main.js.map": "/frankie-is-hungry/static/js/main.47e4c2b3.chunk.js.map",
+    "runtime~main.js": "/frankie-is-hungry/static/js/runtime~main.fe4bd197.js",
+    "runtime~main.js.map": "/frankie-is-hungry/static/js/runtime~main.fe4bd197.js.map",
+    "static/js/2.b41502e9.chunk.js": "/frankie-is-hungry/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/frankie-is-hungry/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/frankie-is-hungry/index.html",
+    "precache-manifest.e4636d5fa3d6239c545ad3452237f7ab.js": "/frankie-is-hungry/precache-manifest.e4636d5fa3d6239c545ad3452237f7ab.js",
+    "service-worker.js": "/frankie-is-hungry/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/frankie-is-hungry/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/frankie-is-hungry/static/media/logo.5d5d9eef.svg"
+  }
+}
