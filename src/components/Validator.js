@@ -12,12 +12,12 @@ function FishResponse(props) {
 function NotFishResponse(props) {
     const text = `I WANT FISH \n NOT ${props.query.toUpperCase()}`
     return (
-        <div>
-            <img className="img__query"
-                src={`http://loremflickr.com/600/400/${props.query.toLowerCase()}`}
-                alt={`${props.query.toLowerCase()}`}/>
-            <div className="frankie">{text}</div>
-        </div>
+        <div className="frankie">{text}</div>
+        // <div>
+            // <img className="img__query"
+            //     src={`http://loremflickr.com/600/400/${props.query.toLowerCase()}`}
+            //     alt={`${props.query.toLowerCase()}`}/>
+        // </div>
     )
 }
 
