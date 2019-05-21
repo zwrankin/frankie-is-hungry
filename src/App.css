@@ -115,10 +115,14 @@ input:-webkit-autofill {
   font-family: "Comic Sans MS";
   color: red;
   display: flex;
-  font-size: 12rem;
+  font-size: 9rem;
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+
+.img__query {
+  height: 300px !important;
 }
 
 /******** RECIPE.js ********/
