@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/frankie-is-hungry/precache-manifest.702dc675569eb37b743d97bb0942ed06.js"
+  "/frankie-is-hungry/precache-manifest.0e3b3a7474739025ecb6f7f865d301bf.js"
 );
 
 self.addEventListener('message', (event) => {

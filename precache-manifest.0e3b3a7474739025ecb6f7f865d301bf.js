@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c52b3ef1b599caa6ac84a420d6b7ef2",
+    "revision": "156158b974df21fd52e7f6591526687f",
     "url": "/frankie-is-hungry/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frankie-is-hungry/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "ae4df7a1c474434467c2",
+    "revision": "df369100c3e8b55a1c01",
     "url": "/frankie-is-hungry/static/css/main.bb46bf1b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frankie-is-hungry/static/js/2.379e7d99.chunk.js"
   },
   {
-    "revision": "ae4df7a1c474434467c2",
-    "url": "/frankie-is-hungry/static/js/main.4bb8d4cd.chunk.js"
+    "revision": "df369100c3e8b55a1c01",
+    "url": "/frankie-is-hungry/static/js/main.679e69aa.chunk.js"
   },
   {
     "revision": "7e037d06e20fb73a9053",
